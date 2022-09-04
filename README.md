@@ -1,5 +1,4 @@
 # Loan Data Exploration
-## by Rodhiyat Raheem
 
 
 ## Dataset
